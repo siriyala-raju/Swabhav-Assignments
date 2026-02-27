@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Armstrong/Armstrong.csproj" />
+  <Project Path="Factorial/Factorial.csproj" />
+  <Project Path="Fibonacci/Fibonacci.csproj" />
+  <Project Path="PrimeNumber/PrimeNumber.csproj" />
+  <Project Path="ReverseNumber/ReverseNumber.csproj" />
+</Solution>
