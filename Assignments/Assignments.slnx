@@ -2,6 +2,7 @@
   <Project Path="Armstrong/Armstrong.csproj" />
   <Project Path="Factorial/Factorial.csproj" />
   <Project Path="Fibonacci/Fibonacci.csproj" />
+  <Project Path="PalindromeString/PalindromeString.csproj" Id="67c573e4-f1ea-44bb-9353-4232890e33d9" />
   <Project Path="PrimeNumber/PrimeNumber.csproj" />
   <Project Path="ReverseNumber/ReverseNumber.csproj" />
 </Solution>
