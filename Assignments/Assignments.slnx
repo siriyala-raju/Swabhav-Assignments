@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Armstrong/Armstrong.csproj" />
+  <Project Path="CommandLineArgs/CommandLineArgs.csproj" Id="4f5c1824-ded1-403a-990c-93a9e445808d" />
   <Project Path="Factorial/Factorial.csproj" />
   <Project Path="Fibonacci/Fibonacci.csproj" />
   <Project Path="NumberGuessGame/NumberGuessGame.csproj" Id="748662d7-46ed-47c3-a3fa-01e0471c3ee9" />
