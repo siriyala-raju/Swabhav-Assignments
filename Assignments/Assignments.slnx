@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="Armstrong/Armstrong.csproj" />
+  <Project Path="ArrayTest/ArrayTest.csproj" Id="d7e0774e-1c40-4815-9b68-c680c6fa3823" />
+  <Project Path="Coding standards/LoopTest.csproj" Id="29d32c37-14e4-4fd0-afb9-93e0deec1747" />
   <Project Path="CommandLineArgs/CommandLineArgs.csproj" Id="4f5c1824-ded1-403a-990c-93a9e445808d" />
   <Project Path="Factorial/Factorial.csproj" />
   <Project Path="Fibonacci/Fibonacci.csproj" />
