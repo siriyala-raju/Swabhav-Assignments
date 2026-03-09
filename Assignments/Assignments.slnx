@@ -4,6 +4,7 @@
   <Project Path="CommandLineArgs/CommandLineArgs.csproj" Id="4f5c1824-ded1-403a-990c-93a9e445808d" />
   <Project Path="Factorial/Factorial.csproj" />
   <Project Path="Fibonacci/Fibonacci.csproj" />
+  <Project Path="FunctionsAndArrays/FunctionsAndArrays.csproj" Id="ccad1a0c-336b-4c10-b800-14e9864339ae" />
   <Project Path="LoopTest/LoopTest.csproj" Id="69484233-c7c5-4cfd-b20e-2a62e168670d" />
   <Project Path="NumberGuessGame/NumberGuessGame.csproj" Id="748662d7-46ed-47c3-a3fa-01e0471c3ee9" />
   <Project Path="PalindromeString/PalindromeString.csproj" Id="67c573e4-f1ea-44bb-9353-4232890e33d9" />
