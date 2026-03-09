@@ -1,7 +1,10 @@
 <Solution>
   <Project Path="Armstrong/Armstrong.csproj" />
   <Project Path="ArrayTest/ArrayTest.csproj" Id="d7e0774e-1c40-4815-9b68-c680c6fa3823" />
+  <Project Path="BoxingUnboxing/BoxingUnboxing.csproj" Id="c5c346e6-ff39-4145-9bd9-1408d73a2ea3" />
   <Project Path="CommandLineArgs/CommandLineArgs.csproj" Id="4f5c1824-ded1-403a-990c-93a9e445808d" />
+  <Project Path="ConstructorChaining/ConstructorChaining.csproj" Id="5f211131-e71e-4644-beb4-6529e1407319" />
+  <Project Path="ConstructorOverloading/ConstructorOverloading.csproj" Id="5a63d977-af84-43ec-a29b-f2c3a4b64b49" />
   <Project Path="Factorial/Factorial.csproj" />
   <Project Path="Fibonacci/Fibonacci.csproj" />
   <Project Path="FunctionsAndArrays/FunctionsAndArrays.csproj" Id="ccad1a0c-336b-4c10-b800-14e9864339ae" />
