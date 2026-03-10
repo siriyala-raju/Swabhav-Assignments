@@ -13,4 +13,5 @@
   <Project Path="PalindromeString/PalindromeString.csproj" Id="67c573e4-f1ea-44bb-9353-4232890e33d9" />
   <Project Path="PrimeNumber/PrimeNumber.csproj" />
   <Project Path="ReverseNumber/ReverseNumber.csproj" />
+  <Project Path="StudentGrading/StudentGrading.csproj" Id="b0a8e90c-27fe-4268-8e32-7751cd8ed52f" />
 </Solution>
