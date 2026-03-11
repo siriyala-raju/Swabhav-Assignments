@@ -19,7 +19,7 @@ namespace StudentGrading
             this.Marks = marks;
         }
 
-        public double CalculateAverage()
+        public double Average()
         {
             int sum = 0;
             foreach (int score in Marks)
@@ -30,9 +30,9 @@ namespace StudentGrading
             return average;
         }
 
-        public string CalculateGrade()
+        public string Grade()
         {
-            double average = CalculateAverage();
+            double average = Average();
             if (average >= 90)
                 return "A+";
             else if (average >= 80)
@@ -65,8 +65,8 @@ namespace StudentGrading
                    $"Name        : {Name}\n" +
                    $"Roll No     : {RollNo}\n" +
                    $"Marks       : {marksList}\n" +
-                   $"Average     : {CalculateAverage():0.0}\n" +
-                   $"Grade       : {CalculateGrade()}";
+                   $"Average     : {Average():0.0}\n" +
+                   $"Grade       : {Grade()}";
         }
     }
 }

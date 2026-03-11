@@ -11,6 +11,7 @@
   <Project Path="LoopTest/LoopTest.csproj" Id="69484233-c7c5-4cfd-b20e-2a62e168670d" />
   <Project Path="NumberGuessGame/NumberGuessGame.csproj" Id="748662d7-46ed-47c3-a3fa-01e0471c3ee9" />
   <Project Path="PalindromeString/PalindromeString.csproj" Id="67c573e4-f1ea-44bb-9353-4232890e33d9" />
+  <Project Path="PlanetGravityEnum/PlanetGravityEnum.csproj" Id="26b34b10-247f-4eb5-a5a7-b90132aa353d" />
   <Project Path="PrimeNumber/PrimeNumber.csproj" />
   <Project Path="ReverseNumber/ReverseNumber.csproj" />
   <Project Path="StudentGrading/StudentGrading.csproj" Id="b0a8e90c-27fe-4268-8e32-7751cd8ed52f" />
