@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="In-And-Out/In-And-Out.csproj" />
+  <Project Path="Params_Arrays/Params_Arrays.csproj" />
+  <Project Path="TryParse/TryParse.csproj" />
+</Solution>
