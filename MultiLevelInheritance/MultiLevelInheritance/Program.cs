@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Banquet[] banquets = new Banquet[3];
-            Banquet[] eventexhibition = new Banquet[2];
+            Event[] eventexhibition = new Event[2];
 
             GenerateBanquets(banquets);
             GenerateEventExhibition(eventexhibition);
@@ -24,10 +24,10 @@
             }
         }
 
-        static void GenerateEventExhibition(Banquet[] eventexhibition)
+        static void GenerateEventExhibition(Event[] eventexhibition)
         {
             eventexhibition[0] = new Event(4, "Music Concert", 200, 250);
-            eventexhibition[1] = new Exhibition(5, "Tech Expo", 300, 100, 50);
+            eventexhibition[1] = new Exhibition(5, "Tech Expo", 300, 250, 100, 50);
 
             for (int i = 0; i < eventexhibition.Length; i++)
             {

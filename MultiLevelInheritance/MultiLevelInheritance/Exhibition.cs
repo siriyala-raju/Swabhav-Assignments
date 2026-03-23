@@ -4,17 +4,17 @@ using System.Text;
 
 namespace MultiLevelInheritance
 {
-    internal class Exhibition : Banquet
+    internal class Exhibition : Event
     {
             int TotalStalls;
             int StallRent;
 
-            public Exhibition(int id, string name, int capacity, int stalls, int rent) : base(id, name, capacity)
+            public Exhibition(int id, string name, int capacity, int pax, int stalls, int rent) : base(id, name, capacity, pax)
             {
                 if (stalls > capacity / 2)
                 {
                     Console.WriteLine("Stalls cannot exceed half of capacity");
-                    stalls = capacity / 2; // adjust to safe value
+                    stalls = capacity / 2;
                 }
 
                 TotalStalls = stalls;

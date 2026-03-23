@@ -13,7 +13,7 @@ namespace MultiLevelInheritance
             if (pax > capacity)
             {
                 Console.WriteLine("Total Pax cannot exceed Capacity");
-                pax = capacity; // adjust to safe value
+                pax = capacity;
             }
 
             TotalPax = pax;
